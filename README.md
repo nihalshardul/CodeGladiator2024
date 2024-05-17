@@ -9,4 +9,4 @@ Making repository for now, but the code will be pushed after every round complet
 We will try our best to complete coding challenges and push code after the round ends.
 
 Thanks,
-Nihal Shardul.
+- Nihal Shardul.
