@@ -8,5 +8,5 @@ This repository is created for Code Gladiator 2024 solutions.
 Making repository for now, but the code will be pushed after every round completion.
 We will try our best to complete coding challenges and push code after the round ends.
 
-Thanks,
-- Nihal Shardul.
+Thanks, <br>
+Nihal Shardul.
